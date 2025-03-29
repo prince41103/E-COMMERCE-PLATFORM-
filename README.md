@@ -1,1 +1,15 @@
 # E-COMMERCE-PLATFORM-
+
+*COMPANY*:CODTECH IT SOLUTIONS
+
+*NAME*:PRINCE VERMA
+
+*INTERN ID*:CT6WUAK
+
+*DOMAIN*:FRONT END DEVELOPER
+
+*DURATION*:6 WEEKS
+
+*MENTOR*: NEELAM SANTOSH
+
+##herbal e commerce website full responsive for purchaseing a herbs plant  
